@@ -1,4 +1,4 @@
-![Tests](https://github.com/Samiksha999/higgs-signal-classifier/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/Samiksha999/higgs-signal-classifier/actions/workflows/main.yml/badge.svg)
 
 # Higgs Boson Signal Classifier
 ...
