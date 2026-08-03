@@ -1,3 +1,4 @@
+# CI Pipeline for Higgs Classifier
 name: Run Tests
 on:
   push:
