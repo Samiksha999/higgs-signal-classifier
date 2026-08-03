@@ -1,4 +1,7 @@
+![Tests](https://github.com/Samiksha999/higgs-signal-classifier/actions/workflows/ci.yml/badge.svg)
+
 # Higgs Boson Signal Classifier
+...
 
 A machine learning pipeline that classifies Higgs boson signal events from background noise using ATLAS detector data from CERN's Open Data Portal.
 
