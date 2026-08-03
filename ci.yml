@@ -8,6 +8,7 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - run: pip install -r requirements.txt
-      - run: pip install pytest httpx
-      - run: python -m pytest test_api.py -v
+      - name: Install pytest
+        run: pip install pytest httpx fastapi xgboost scikit-learn shap pandas numpy uvicorn
+      - name: Run tests
+        run: python -m pytest test_api.py -v
